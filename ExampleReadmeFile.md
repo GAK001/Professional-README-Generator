@@ -1,6 +1,6 @@
-# My Project Title 
+# My Project 
   ## Description
-  Description 
+  Project Desc 
 
   ## Table of Contents
   ### [Description](##Description) 
@@ -13,19 +13,19 @@
   ### [Badges](##Badges)
   
   ## Installation
-  Installation detail 
+  Project Installation 
  
   ## Usage
-  Usage Detail 
+  Project Usage 
 
   ## License
-  The Unlicense 
+  MIT 
 
   ## Contributing
-  Cont detail 
+  Contr 
 
   ## Tests
-  Test detail 
+  Test 
 
   ## Questions
   For additional questions, please contact me at: gak.ahmetkaraca@gmail.com
@@ -33,4 +33,4 @@
   Visit my Github profile page here: https://github.com/GAK001 
  
   ## Badges 
-  [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/) 
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 

@@ -62,7 +62,7 @@ inquirer
   ])
   // Write README file
   .then((data) => {
-    const filename = `readme.md`;
+    const filename = `ExampleReadmeFile.md`;
 
     // Write file
     fs.writeFile(filename, generateMarkdown(data), (err) =>
