@@ -10,6 +10,8 @@ I create this project for creating readme file for github repository.
 
 # Features
 
+![Screenshot](app.jpg)
+
 Project working on terminal interface and asking questions to user.
 
 Regarding user inputs system creating a readme file as a result.
