@@ -10,7 +10,7 @@ I create this project for creating readme file for github repository.
 
 # Features
 
-![Screenshot](app.jpg)
+![Screenshot](app.png)
 
 Project working on terminal interface and asking questions to user.
 
